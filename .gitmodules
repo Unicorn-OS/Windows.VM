@@ -1,0 +1,3 @@
+[submodule ".this/depends/KVM.Hyperion"]
+	path = .this/depends/KVM.Hyperion
+	url = https://github.com/Unicorn-OS/KVM.Hyperion.git
